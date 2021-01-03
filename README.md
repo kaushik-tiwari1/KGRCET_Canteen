@@ -68,12 +68,12 @@ python3 app.py
  <img width=""800px" src="https://github.com/Chinmay-Manas/KGRCET_Canteen/blob/master/Canteen%20App/screenshots/Checkout.png" />
 </p>
 
-#### Hotel Register
+#### Canteen Register
 <p align="center">
  <img width=""800px" src="https://github.com/Chinmay-Manas/KGRCET_Canteen/blob/master/Canteen%20App/screenshots/Canteen%20Register.png" />
 </p>
                                                                                                                      
-#### Hotel Login
+#### Canteen Login
 <p align="center">
  <img width=""800px" src="https://github.com/Chinmay-Manas/KGRCET_Canteen/blob/master/Canteen%20App/screenshots/Canteen%20Login.png" />
 </p>                                                                                                                 
