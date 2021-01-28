@@ -15,8 +15,8 @@ export default function Checkout(){
     }
 
     return (
-        <div className="bg3" style={{textAlign: "center"}}>
-          <div  style={{border: "2px solid black", textAlign: "center" ,minWidth: 300, maxWidth: 700,margin: "auto", marginTop: "200px", backgroundColor:"white",height: "300px"}}>
+        <div className="bg3" style={{textAlign: ""}}>
+          <div  style={{border: "", textAlign: "center" ,minWidth: 300, maxWidth: 700,margin: "auto", marginTop: "200px", backgroundColor:"null",height: "300px"}}>
            <h1>Thank You For your Visit</h1>
             <h3 style={{marginTop: "50px"}}>Wanna Order Again??</h3>
            <button style={{display:"block", width: "100%", backgroundColor:'blue',color:"white", padding:" 15px 32px",fontSize:"16px", pointerEvents: "cursor" }} onClick={() => handleOrder()}>Order Again</button>

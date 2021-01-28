@@ -92,7 +92,7 @@ export default class Customermenu extends React.Component {
       render(){      
         return (
             <div className="bg2">
-            <div style={{backgroundColor: "black", height: 70}}>
+            <div style={{backgroundColor: "black", height: 50}}>
                
                 <Cart
                   food={this.state.food}

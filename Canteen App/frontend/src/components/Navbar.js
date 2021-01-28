@@ -37,7 +37,7 @@ export default function Navbar() {
           <AppBar position="static">
             <Toolbar>
               <Typography variant="h6" className={classes.title}>
-                KGRCET : Canteen
+                KGRCET Canteen
               </Typography>
               <Button color="inherit" onClick={navlink}>Login</Button>
               <Button color="inherit" onClick={logout}>Logout</Button>

@@ -99,7 +99,7 @@ export default function ClippedDrawer() {
       <AppBar position="fixed" className={classes.appBar}>
         <Toolbar>
           <Typography variant="h6" noWrap>
-            Hotel App
+            KGRCET Canteen
           </Typography>
           <Button color="inherit" onClick={logout} style={{alignSelf:'right'}}>Logout</Button>
         </Toolbar>
